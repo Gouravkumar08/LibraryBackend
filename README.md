@@ -1,9 +1,8 @@
 # 📚 Online Library Management System
 
-This is a full-stack web application that allows users to manage a digital library. It includes:
+This is a Backend for web application that allows users to manage a digital library. It includes:
 
 - 📘 A **Spring Boot backend** with CRUD operations and integration with **Gemini API** to generate AI-powered book taglines/summaries.
-- 💻 A **React.js frontend** styled with **Tailwind CSS**, allowing users to browse books, view details, and generate AI insights.
 
 ---
 
@@ -28,10 +27,6 @@ This is a full-stack web application that allows users to manage a digital libra
 │   ├── Dockerfile
 │   └── pom.xml
 │
-└── frontend/               # React frontend
-    ├── src/
-    ├── public/
-    └── package.json
 ```
 
 ---
